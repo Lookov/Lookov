@@ -13,6 +13,12 @@
 <br>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Lookov/Lookov/main/assets/stack.svg" width="760" alt="Stack: React, Vite, TypeScript, Node.js, Python, Go, PostgreSQL, Metabase, Mixpanel, Docker, Datadog, Grafana">
+</p>
+
+<br>
+
+<p align="center">
   <a href="mailto:lookoffdev@gmail.com"><img src="https://raw.githubusercontent.com/Lookov/Lookov/main/assets/footer.svg" width="760" alt="Contact: lookoffdev@gmail.com"></a>
 </p>
 
